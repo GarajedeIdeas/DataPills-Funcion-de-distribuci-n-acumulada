@@ -1,1 +1,1 @@
-# DataPills-Distritos
+# DataPills Función de Distribución Acumulada
